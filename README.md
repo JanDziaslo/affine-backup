@@ -1,5 +1,5 @@
 >[!IMPORTANT]
-> Skrypt został zrobiony pod powłoke fish. Testowany na Debianie 13 (Trixie)
+> Skrypty zostały zrobione pod powłoke fish. Testowane na Debianie 13 (Trixie)
 # affine.fish
 ## Prosty skrypt do backup'u bazy danych affine
 ### Funkcje
